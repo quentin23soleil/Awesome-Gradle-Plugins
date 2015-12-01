@@ -17,3 +17,7 @@ Pull Requests are more tha welcome, we're a community guys ;)
 
 [Gradle Advanced Build Version](https://github.com/moallemi/gradle-advanced-build-version) : A plugin to generate the Android version code and version name automatically
 
+[Gradle Android Command Plugin](https://github.com/novoda/gradle-android-command-plugin) : Use gradle tasks to run specific adb commands.
+
+
+
