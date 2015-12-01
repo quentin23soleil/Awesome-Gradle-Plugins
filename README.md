@@ -19,5 +19,7 @@ Pull Requests are more than welcome, we're a community guys ;)
 
 [Gradle Android Command Plugin](https://github.com/novoda/gradle-android-command-plugin) : Use gradle tasks to run specific adb commands.
 
+[Gradle Proguard Plugin](https://github.com/hotchemi/gradle-proguard-plugin) : Gradle plugin which easily add proguard snippet.
 
+[Gradle Config](https://github.com/tmiyamon/gradle-config) : Gradle plugin to easily handle variant specific settings with yaml format.
 
