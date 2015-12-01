@@ -12,3 +12,7 @@ Pull Requests are more tha welcome, we're a comunity guys ;)
 
 [Gradle Versions Plugin](https://github.com/ben-manes/gradle-versions-plugin) : Gradle plugin to discover dependency updates
 
+[Dexcount Gradle Plugin](https://github.com/KeepSafe/dexcount-gradle-plugin) : A Gradle plugin to report the number of method references in your APK on every build.
+
+[Gradle Advanced Build Version](https://github.com/moallemi/gradle-advanced-build-version) : A plugin to generate the Android version code and version name automatically
+
